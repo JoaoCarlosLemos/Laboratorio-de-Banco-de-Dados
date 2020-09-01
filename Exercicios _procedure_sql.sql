@@ -380,4 +380,4 @@ EXEC sp_alunoatividades 5,'mariana',1.60,71
 SELECT * FROM v_atividades_alunos
 SELECT * FROM aluno
 
---------------------------------------------------------------------------------------------------------
+
