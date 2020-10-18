@@ -1,0 +1,191 @@
+
+.audio{
+    position: fixed;
+    top: 1%;
+    left: 1%;
+    width: 250px;
+    height: 20px;
+}
+
+.quesito {
+    width: 100%;
+    background: #3f3bb3;
+    border: none;
+    font-size: 15px;
+    color: white;
+    margin-left: 1px;
+    margin-bottom: 6px;
+    padding-left: 70px;
+    font-style: italic;
+}
+
+.titulo_resultado {
+    width: 100%;
+    background: #3f3bb3;
+    border: none;
+    font-size: 15px;
+    color: white;
+    margin-left: 1px;
+    margin-bottom: 6px;
+    padding-left: 20px;
+    font-style: italic;
+}
+
+.conteiner_tabela {
+    position: fixed;
+    background: white;
+    width: 642px;
+    height: 420px;
+    left: 230px;
+    top: 195px;
+}
+
+.conteiner_tabela_resultado {
+    /*background: #ecebeb;*/
+    width: 250px;
+    height: 420px;
+    margin-top: 20px;
+    position: fixed;
+    top: 175px;
+    left: 900px;
+}
+
+.azul{
+	background:#3f3bb3;
+	color:white;
+	text-align: center;
+}
+
+.cinza{
+	background:#f5f5ff;
+	text-align: center;
+}
+.centralizado{
+	text-align: center;
+}
+
+.table td, .table th {
+    padding: .5rem !important;
+}
+
+.table {
+    color: #5b5f63 !important;
+}
+
+*{
+	font-size:10px;
+}
+
+label{
+	font-size:8px;
+}
+ 
+input{
+	text-transform: uppercase;
+}
+
+.containers {
+	width: 1300px;
+	height:600px;
+	padding:15px;
+    margin: 10px auto 0px auto;
+    overflow: hidden;
+   -- background:#e4dbda96;
+}
+
+.enviar{
+	margin-top:19px;
+}
+
+.nota{
+    width: 50px;
+    margin:0px 3px;
+}
+
+.form-group{
+	margin:0px 3px;
+}
+
+.logo{
+	position: fixed;
+    top: 10px;
+    left: 39%;
+}
+
+.mascara{
+	position: fixed;
+    left: 170px;
+    margin-top: -90px;
+}
+
+.morena{
+	position: fixed;
+    left: 1100px;
+    margin-top: -130px;
+}
+
+.jurado{
+	position: fixed;
+    left: 928px;
+    margin-top: -113px;
+}
+
+#block-j{
+    background-color: #eaebf1a1;
+}
+
+#block-e{
+    background-color: #eaebf1a1;
+}
+
+#quesito{
+	background-color: #eaebf1a1;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #efe8e8 !important;
+}
+
+.fieldset {
+    border: 1px solid rgba(185,186,189,0.2);
+    border-radius: 10px 0px 0px 10px;
+    padding: 10px 10px 0px 10px;
+    margin-top: 82px;
+}
+
+.form-horizontal{
+	width:600px;
+	margin-left: 280px;
+    /*margin-right: auto;*/
+}
+
+.form-group{
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.error {
+    color: #bd2130;
+    font-size: 9px;
+    text-align: center;
+}
+
+.bloqueio {
+    width: 393px;
+    height: 20px;
+   /* background: #00000052;*/
+    position: fixed;
+    top: 137px;
+    left: 410px;
+}
+
+.bloqueio_enviar {
+    width: 135px;
+    height: 55px;
+    background: #ffffff;
+    position: fixed;
+    top: 110px;
+    left: 774px;
+}
+
+
