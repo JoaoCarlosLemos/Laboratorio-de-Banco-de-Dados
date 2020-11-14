@@ -1,0 +1,196 @@
+
+.container {
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+   -- background: red;
+}
+
+.list_atleta{
+	font-size: 10px!important;
+    color: #1d3680;
+    margin-left: 280px;
+    margin-bottom: 0px!important;
+    position: absolute;
+    top: 105px;
+}
+
+.list_paises{
+	font-size: 10px!important;
+    color: #1d3680;
+    margin-left: 853px;
+    margin-bottom: 0px!important;
+    position: absolute;
+    top: 105px;
+}
+
+.container_cinza {
+    position: relative;
+    background:#f9fafa;
+    width: 750px;
+    height: 540px;
+    top: 70px;
+    padding: 1px 0px 1px 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-top: -50px;
+    border-radius: 50px 0px 50px 0px;
+    box-shadow: 2px -2px 4px #e0dbdb63;
+}
+
+.barra_lateral {
+    position: absolute;
+    background: linear-gradient(to bottom,#1d3282,#00a033);
+    width: 100px;
+    height: 100%;
+    border-radius: 50px 0px 0px 0px;  
+}
+
+.teste{
+	height:5px;
+	margin-left:130px;
+}
+
+.tbl_provas{
+	margin-left: 150px;
+    font-size: 10px;
+    font-weight: 500;
+    width: 560px !important;
+}
+
+.centralizar{
+	text-align: center;
+}
+
+.linha_azul{
+	background: #174a72;
+	color:white;
+}
+
+
+.logo{
+	display: inline-block;
+    position: absolute;
+    left: 420px;
+    top: 0px;
+}
+
+.bandeira{
+	display: inline-block;
+    position: absolute;
+    left: -600px;
+    top: 43px;
+}
+
+.link{
+    font-size: 10px!important;
+    color: #1d3680;
+    margin-left: 410px;
+    margin-bottom: 0px!important;
+    position: absolute;
+    top: 105px;
+}
+
+.scroll {
+    height: 477px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 721px;
+}
+
+ ::-webkit-scrollbar{
+	width:7px;
+}
+
+::-webkit-scrollbar-thumb{
+	background-color:#e0e2e2;
+	border-radius:5px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+	background-color:#174a72; 
+}
+
+::-webkit-scrollbar-button{
+	background-color:#f9fafa;
+	border-radius:200px;
+	border: 2px solid #e0e2e2;
+}
+
+::-webkit-scrollbar-track{
+	background-color:#f9fafa;
+	border: 2px solid #e0e2e2;
+	border-radius:5px;
+}
+
+.ordenacao{
+	font-size: 13px;
+    color: #ffffff;
+    margin-left: 10px;
+    position: absolute;
+    top: 115px;
+}
+
+.ordenacao_atleta{
+	font-size: 11px;
+    color: #ffffff;
+    margin-left: 10px;
+    position: absolute;
+    top: 145px;
+}
+
+.ordenacao_masculino{
+	font-size: 11px;
+    color: #ffffff;
+    margin-left: 10px;
+    position: absolute;
+    top: 165px;
+}
+
+.ordenacao_feminino{
+	font-size: 11px;
+    color: #ffffff;
+    margin-left: 10px;
+    position: absolute;
+    top: 185px;
+}
+.ordenacao_pais{
+	font-size: 11px;
+    color: #ffffff;
+    margin-left: 10px;
+    position: absolute;
+    top: 205px;
+}
+
+.ordenacao_prova{
+	font-size: 11px;
+    color: #ffffff;
+    margin-left: 10px;
+    position: absolute;
+    top: 225px;
+}
+
+.barra_lateral_iaaf{
+	position: absolute;
+    top: 430px;
+}
+
+.ordenacao_atleta:hover{color: #ffffff;}
+.ordenacao_masculino:hover{color: #ffffff;}
+.ordenacao_feminino:hover{color: #ffffff;}
+.ordenacao_pais:hover{color: #ffffff;}
+.ordenacao_prova:hover{color: #ffffff;}
+
+.voltar{
+	color: #1d3680!important;
+}
+
+.voltar:hover{
+	color: #ffa500!important;
+	text-decoration: none!important;
+}
+

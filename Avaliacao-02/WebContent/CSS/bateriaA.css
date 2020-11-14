@@ -1,0 +1,218 @@
+
+.container {
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+   -- background: red;
+}
+
+.list_atleta{
+	font-size: 10px!important;
+    color: #1d3680;
+    margin-left: 280px;
+    margin-bottom: 0px!important;
+    position: absolute;
+    top: 105px;
+}
+
+.list_paises{
+	font-size: 10px!important;
+    color: #1d3680;
+    margin-left: 853px;
+    margin-bottom: 0px!important;
+    position: absolute;
+    top: 105px;
+}
+
+.container_cinza {
+    position: relative;
+    background: #f9fafa;
+    width: 1080px;
+    height: 420px;
+    top: 70px;
+    padding: 1px 0px 1px 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-top: -50px;
+    border-radius: 50px 0px 50px 0px;
+    box-shadow: 2px -2px 4px #e0dbdb63;
+}
+
+.barra_lateral {
+    position: absolute;
+    background: linear-gradient(to bottom,#1d3282,#00a033);
+    width: 100px;
+    height: 100%;
+    border-radius: 50px 0px 0px 0px;  
+}
+
+.teste{
+	height:5px;
+	margin-left:130px;
+}
+
+.tbl_provas{
+	margin-left:120px;
+	margin-top: 8px;
+	color: #212529b8!important;
+	font-size:10px;
+	font-weight: bold;
+	width: 462px !important;
+}
+
+.tbl_final{
+	position: absolute;
+    top: 6px;
+    margin-left: 600px;
+    margin-top: 8px;
+    color: #212529b8!important;
+	font-weight: bold;
+    font-size: 10px;
+    width: 462px !important;
+}
+
+.centralizar{
+	text-align: center;
+}
+
+.linha_azul{
+	background: #174a72;
+	color:white;
+}
+
+
+.logo{
+	display: inline-block;
+    position: absolute;
+    left: 420px;
+    top: 0px;
+}
+
+.bandeira{
+	display: inline-block;
+    position: absolute;
+    left: -600px;
+    top: 43px;
+}
+
+.link{
+    font-size: 10px!important;
+    color: #1d3680;
+    margin-left: 240px;
+    margin-bottom: 0px!important;
+    position: absolute;
+    top: 105px;
+}
+
+.fase_inicial{
+    font-size: 10px!important;
+    color: #ffffff!important;
+    letter-spacing: 1px;
+    margin-left: 17px;
+    position: absolute;
+    top: 170px;
+}
+
+.fase_final{
+    font-size: 10px!important;
+    color: #ffffff!important;
+    letter-spacing: 1px;
+    margin-left: 17px;
+    position: absolute;
+    top: 185px;
+}
+
+.fase_inicial:hover{
+	text-decoration: underline!important;
+	color: #ffffff!important;
+}
+
+.fase_final:hover{
+	text-decoration: underline!important;
+	color: #ffffff!important;
+}
+
+
+.texto_barra_lateral{
+    background: rgba(0,0,0,0);
+    border: none;
+    color: white;
+    cursor: default;
+    transform: rotate(-90deg);
+    transform-origin: left 0;
+    position: absolute;
+    letter-spacing: 1px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 9px;
+    width: 352px;
+    top: 370px;
+    left: 78px;
+}
+
+.input_recorde{
+	background: rgba(0,0,0,0);
+    border: none;
+    color: white;
+    cursor: default;
+    position: absolute;
+    letter-spacing: 1px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 7px;
+    width: 99px; 
+}
+
+.gp_titulo{
+	top: 320px;
+}
+
+.gp_valor{
+    top: 329px;
+}
+
+.mundial_titulo{
+    top: 345px;
+}
+
+.mundial_valor{
+    top: 354px;
+}
+
+.boneco{
+    position: absolute;
+    top: 105px;
+}
+
+a{
+	color: #1d3680!important;
+}
+
+a:hover{
+	color: #ffa500!important;
+	text-decoration: none!important;
+}
+
+.mundial{
+	color:#1a65a0;
+	font-weight: bold;
+}
+
+.gp_brasil{
+	color:#33c30e;
+	font-weight: bold;
+}
+
+.legenda{
+    position: absolute;
+    top: 495px;
+    left: 240px;
+}
+
+
+
+
